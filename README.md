@@ -1,2 +1,1 @@
-# schooltemplate
-This is a school website in HTML using Flask.
+A responsive school website built with HTML, CSS, and Flask framework. Features include course information, faculty details, admission portal, and contact forms. Designed for educational institutions to showcase their programs and facilities online.
